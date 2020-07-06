@@ -32,8 +32,7 @@
           {type} - Build type
           {incr} - Incremental version
     -->
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/Xtended-Devices/official_devices/xq/builds/{device}.json</string>
-
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/cCc-OS-Devices/devices/master/builds/{device}.json</string>
     <string name="verification_failed_notification">Verification failed</string>
     <string name="verifying_download_notification">Verifying update</string>
     <string name="downloading_notification">Downloading</string>
